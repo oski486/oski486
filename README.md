@@ -1,6 +1,6 @@
 # Hi there, I'm Oskar 👋
 
-**Computer Science Student @ Wrocław University of Science and Technology (PWr)**  
+**Computer Science Student | Wrocław University of Science and Technology (PWr)**  
 Specialization: *Computer Networks & Systems*  
 
 Targeting an entry role in **NOC (Network Operations Center)** with a clear trajectory toward becoming a **Network Engineer**. In parallel, working professionally as a **Game Designer** and developing independent game projects.
